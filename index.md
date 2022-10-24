@@ -18,7 +18,7 @@ Pythonに初めて触れる方への入門や参考になれば幸いです。
 - [2-1：hello world](./02_practice/2-01.md)
 - [2-2：変数](./02_practice/2-02.md)
 - [2-3：四則演算](./02_practice/2-03.md)
-- 2-4：if文
+- [2-4：if文](./02_practice/2-04.md)
 - 2-5：for・while文
 - 2-6：関数
 - 2-7：型
