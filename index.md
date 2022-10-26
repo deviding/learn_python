@@ -31,8 +31,14 @@ Pythonに初めて触れる方への入門や参考になれば幸いです。
 
 ### 3：応用
 
-- 3-1：目的を実現するための考え方
-- 3-2：プログラミングに便利な道具
+- [3-1：目的を実現するための考え方](./03_application/3-01.md)
+- [3-2：プログラミングに便利な道具](./03_application/3-02.md)
 
 ### おすすめ参考資料
 
+|リンク|内容|
+|---|---|
+|[Python公式ドキュメント](https://docs.python.org/)|Pythonの公式ドキュメントです。公式なのでここが最も信頼できますし、全ての情報が書いてあります。|
+|[とほほのPython入門](https://www.tohoho-web.com/python/index.html)|Pythonの要点がまとめられています。とほほは他にも色々とプログラミング関係の情報もまとまっているのでとりあえず読んでみるのもいいかもしれません。|
+|[Pythonプログラミング VTuber サプー(Youtubeチャンネル)](https://www.youtube.com/channel/UC5Kgc_HNzx4GJ-w4QMeeKiQ)|Python関連の動画を上げているVTuberさん。いくつか動画を見てわかりやすいと感じたので載せています。|
+|[Google](https://www.google.co.jp/)|Googleで「python 〇〇 サンプル」や「python 〇〇 やり方」などで検索すれば色々と情報が出てきます。検索結果にノイズが入ることもありますが、とりあえずググって出てきたページを端から見ていくのが大事です。|
